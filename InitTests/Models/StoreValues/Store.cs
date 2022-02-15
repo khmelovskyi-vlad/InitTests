@@ -18,8 +18,8 @@
             string test = "";
             Console.WriteLine(test);
             Products = new();
+            // for commit
             return new Product() { Id = id, Name = "For test" };
-            //for init dev
         }
     }
 }
