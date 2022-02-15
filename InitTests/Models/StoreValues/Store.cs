@@ -19,6 +19,7 @@
             Console.WriteLine(test);
             Products = new();
             return new Product() { Id = id, Name = "For test" };
+            //for init dev
         }
     }
 }
